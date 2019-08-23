@@ -6,3 +6,7 @@
 ### These are the few observations from the dataset.
 ###
 ![Ads](https://user-images.githubusercontent.com/40026126/63207658-8dc53200-c0e7-11e9-9627-3fd18a633268.png)
+##  
+### Histogram plot.
+###
+![Histogram](https://user-images.githubusercontent.com/40026126/63571105-daec4c80-c59c-11e9-91c6-d2f6bed3df5f.png)
